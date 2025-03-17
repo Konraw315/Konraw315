@@ -20,8 +20,8 @@ I'm **Konrad**, currently a PhD Candidate in Material Science specializing in Po
 
 I'm expanding my knowledge in:
 
-- **Intermediate Python Programming** 
-- **Advanced Data Manipulation** 
+- **Python Programming** 
+- **Data Manipulation** 
 - **Machine Learning Techniques** 
 - **Cloud Services**
 
